@@ -8,7 +8,7 @@ public final class FilenameConstant {
     /**
      * The constant APPLIANCES_XML.
      */
-    public static final String APPLIANCES_XML = "Appliances.xml";
+    public static final String APPLIANCES_XML = "appliances.xml";
 
     /**
      * Private constructor.

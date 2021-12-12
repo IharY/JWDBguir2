@@ -23,27 +23,27 @@
         <cpu>AMD_RYZEN_9_5900X</cpu>
         <display_inches>13</display_inches>
     </laptop>
-    <Kettle>
+    <kettle>
         <price>50</price>
         <power>600</power>
         <weight>0.3</weight>
         <bulk>1</bulk>
         <color>BLUE</color>
-    </Kettle>
-    <Kettle>
+    </kettle>
+    <kettle>
         <price>100</price>
         <power>1000</power>
         <weight>0.5</weight>
         <bulk>0.5</bulk>
         <color>GREEN</color>
-    </Kettle>
-    <Kettle>
+    </kettle>
+    <kettle>
         <price>199</price>
         <power>1500</power>
         <weight>0.7</weight>
         <bulk>1.5</bulk>
         <color>YELLOW</color>
-    </Kettle>
+    </kettle>
     <fridge>
         <price>1000</price>
         <color>WHITE</color>
@@ -59,12 +59,20 @@
         <color>BLUE</color>
         <company>SAMSUNG</company>
     </fridge>
-<!--    <tabletpc>
+    <tabletpc>
         <price>1600.0</price>
         <battery_capacity>400.0</battery_capacity>
-        <display_inches>15.0</display_inches>
-        <memory_rom>12000.0</memory_rom>
+        <display_inches>8.0</display_inches>
+        <memory_rom>8000.0</memory_rom>
         <color>BLUE</color>
         <company>SAMSUNG</company>
-    </tabletpc>-->
+    </tabletpc>
+    <tabletpc>
+        <price>999.0</price>
+        <battery_capacity>400.0</battery_capacity>
+        <display_inches>10.0</display_inches>
+        <memory_rom>2000.0</memory_rom>
+        <color>WHITE</color>
+        <company>LG</company>
+    </tabletpc>
 </appliances>

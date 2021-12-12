@@ -10,17 +10,17 @@ public final class ApplianceNameConstant {
      */
     public static final String LAPTOP = "laptop";
     /**
-     * The constant Kettle.
+     * The constant KETTLE.
      */
-    public static final String KETTLE = "Kettle";
+    public static final String KETTLE = "kettle";
     /**
      * The constant FRIDGE.
      */
     public static final String FRIDGE = "fridge";
     /**
-     * The constant FRIDGE.
+     * The constant TABLETPC.
      */
-    public static final String TABLETPC = "TabletPC";
+    public static final String TABLETPC = "tabletpc";
 
     /**
      * Private constructor.

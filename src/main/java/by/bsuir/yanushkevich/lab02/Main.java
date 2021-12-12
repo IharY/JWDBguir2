@@ -29,8 +29,15 @@ public class Main {
 
         //////////////////////////////////////////////////////////////////
 
+/*      Feature featureTablePC = new Feature(ApplianceNameConstant.TABLETPC);
+        featureTablePC.add(SearchFeature.TabletPC.COLOR.name(), "WHITE");
+        featureTablePC.add(SearchFeature.TabletPC.COMPANY.name(), "LG");
+        System.out.println("\nFind all TabletPC that COLOR is WHITE and COMPANY is LG:");
+        appliances = service.find(featureTablePC);
+        PrinterAppliance.print(appliances);*/
+
         Feature featureFridge = new Feature(ApplianceNameConstant.FRIDGE);
-      featureFridge.add(SearchFeature.Fridge.COLOR.name(), "WHITE");
+        featureFridge.add(SearchFeature.Fridge.COLOR.name(), "WHITE");
         featureFridge.add(SearchFeature.Fridge.COMPANY.name(), "LG");
         System.out.println("\nFind all Fridges that COLOR is WHITE and COMPANY is LG:");
         appliances = service.find(featureFridge);
