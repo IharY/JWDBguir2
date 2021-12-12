@@ -5,6 +5,10 @@ import by.bsuir.yanushkevich.lab02.entity.Appliance;
 
 import java.util.List;
 
+/**
+ * Class that print info of appliances.
+ */
+
 
 public class PrinterAppliance {
 

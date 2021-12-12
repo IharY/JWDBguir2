@@ -1,0 +1,14 @@
+by.bsuir.yanushkevich.lab02
+by.bsuir.yanushkevich.lab02.common
+by.bsuir.yanushkevich.lab02.dao
+by.bsuir.yanushkevich.lab02.dao.factory
+by.bsuir.yanushkevich.lab02.dao.factory.impl
+by.bsuir.yanushkevich.lab02.dao.impl
+by.bsuir.yanushkevich.lab02.entity
+by.bsuir.yanushkevich.lab02.entity.enums
+by.bsuir.yanushkevich.lab02.entity.feature
+by.bsuir.yanushkevich.lab02.exception
+by.bsuir.yanushkevich.lab02.service
+by.bsuir.yanushkevich.lab02.service.impl
+by.bsuir.yanushkevich.lab02.service.validator
+by.bsuir.yanushkevich.lab02.service.validator.impl

@@ -11,7 +11,13 @@ import by.bsuir.yanushkevich.lab02.service.ServiceFactory;
 
 import java.util.List;
 
+/**
+ * Main class. The entry point of application.
+ */
+
 public class Main {
+
+
 
     public static void main(String[] args) throws ServiceException, ResourceException {
         List<Appliance> appliances;

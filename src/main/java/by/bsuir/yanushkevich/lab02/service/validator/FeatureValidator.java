@@ -2,7 +2,6 @@ package by.bsuir.yanushkevich.lab02.service.validator;
 
 /**
  * CriteriaValidator interface.
- 
  */
 public interface FeatureValidator {
 

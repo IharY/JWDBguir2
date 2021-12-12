@@ -7,7 +7,9 @@ import by.bsuir.yanushkevich.lab02.entity.enums.OS;
 
 import java.util.Objects;
 
-
+/**
+ * Laptop class entity.
+ */
 public class Laptop extends Appliance {
 
     private double batteryCapacity;

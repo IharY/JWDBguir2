@@ -5,6 +5,10 @@ import by.bsuir.yanushkevich.lab02.common.SearchFeatureConstant;
 import java.io.Serializable;
 import java.util.Objects;
 
+/**
+ * Appliance class.
+ */
+
 
 public class Appliance implements Serializable {
 

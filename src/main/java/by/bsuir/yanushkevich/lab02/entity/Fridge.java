@@ -7,6 +7,11 @@ import by.bsuir.yanushkevich.lab02.entity.enums.Company;
 
 import java.util.Objects;
 
+/**
+ * Fridge class entity.
+ */
+
+
 
 public class Fridge extends Appliance {
 

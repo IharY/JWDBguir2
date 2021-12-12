@@ -9,8 +9,7 @@ import java.util.Map;
 
 /**
  * CriteriaValidatorFactory class.
- 
- */
+  */
 public class FeatureValidatorFactory {
 
     private static final FeatureValidatorFactory instance = new FeatureValidatorFactory();

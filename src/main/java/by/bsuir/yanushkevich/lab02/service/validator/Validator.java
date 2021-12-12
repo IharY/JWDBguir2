@@ -4,7 +4,6 @@ import by.bsuir.yanushkevich.lab02.entity.feature.Feature;
 
 /**
  * Validator class.
- 
  */
 public class Validator {
 

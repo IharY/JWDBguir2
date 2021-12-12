@@ -10,6 +10,10 @@ import by.bsuir.yanushkevich.lab02.entity.feature.SearchFeature;
 import org.w3c.dom.Node;
 import org.w3c.dom.NodeList;
 
+/**
+ * TabletpcFactory class.
+ */
+
 public class TabletpcFactory extends ApplianceFactory {
 
     int price;

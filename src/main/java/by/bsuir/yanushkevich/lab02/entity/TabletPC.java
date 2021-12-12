@@ -7,6 +7,10 @@ import by.bsuir.yanushkevich.lab02.entity.enums.Company;
 
 import java.util.Objects;
 
+/**
+ * TabletPC class entity.
+ */
+
 public class TabletPC extends Appliance {
 
     private double batteryCapacity;

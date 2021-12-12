@@ -15,7 +15,6 @@ import java.util.List;
 /**
  * ApplianceServiceImpl class that works with appliances DAO.
  *
- 
  */
 public class ApplianceServiceImpl implements ApplianceService {
 

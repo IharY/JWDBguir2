@@ -6,6 +6,10 @@ import by.bsuir.yanushkevich.lab02.entity.enums.Color;
 
 import java.util.Objects;
 
+/**
+ * Kettle class entity.
+ */
+
 public class Kettle extends Appliance {
     /**
      * Field powerConsumption of Kettle
